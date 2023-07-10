@@ -1,0 +1,9 @@
+{
+    "Test_1": {
+        "Top": {
+            "None": "None",
+            "Full": "Parts/full.ma",
+            "Cube": "Parts/cube.ma"
+        }
+    }
+}
